@@ -1,6 +1,6 @@
 <img width="50" src="" alt="" title=""/>
 
-<h1>Highly experienced</h1>
+<h1>Very experienced</h1>
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
@@ -13,12 +13,14 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" alt="Godot Engine" title="Godot Engine"/>
-	<img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4eAPTAawxipJKSa-iefgafHQQQ8BwTsyK6A&s" alt="GameMakerStudio2" title="GameMakerStudio2"/>
+	<img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4eAPTAawxipJKSa-iefgafHQQQ8BwTsyK6A&s" alt="GameMakerStudio 2" title="GameMakerStudio 2"/>
 </div>
 
 <h1>Competent</h1>
 <div align="center">
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
+	<img width="50" src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" alt="Raspberry Pi" title="Raspberry Pi"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
 </div>
 
 <h1>Learning</h1>
@@ -29,5 +31,6 @@
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png" alt="WebAssembly" title="WebAssembly"/>
 	<img width="50" src="https://rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" title="Rust"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
 </div>
 

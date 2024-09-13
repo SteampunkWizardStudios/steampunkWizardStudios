@@ -26,5 +26,6 @@
 <h1>Want to learn</h1>
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png" alt="WebAssembly" title="WebAssembly"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/>
 </div>
 

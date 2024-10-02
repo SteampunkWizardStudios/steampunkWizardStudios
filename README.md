@@ -46,6 +46,5 @@ Redoing profile readme to be more clean, will focus on my repos when I have an i
 	<img width="50" src="https://rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" title="Rust"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind" title="Tailwind"/>
 </div>
 

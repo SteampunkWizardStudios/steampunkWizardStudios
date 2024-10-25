@@ -28,7 +28,6 @@ Redoing profile readme to be more clean, will focus on my repos when I have an i
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash" title="Bash"/>
 	<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" alt="MySQL" title="MySQL"/>
-	<img width="50" src="https://www.datocms-assets.com/58377/1688031025-hero_image.svg" alt="Prisma" title="Prisma"/>
 	<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
 
@@ -37,7 +36,7 @@ Redoing profile readme to be more clean, will focus on my repos when I have an i
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
- 	<img width="50" src="https://www.datocms-assets.com/58377/1688031025-hero_image.svg" alt="Prisma" title="Prisma"/>
+ 	<img width="50" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Preview-Prisma-IndigoSymbol.png" alt="Prisma" title="Prisma"/>
 
 </div>
 <h1>Want to learn</h1>

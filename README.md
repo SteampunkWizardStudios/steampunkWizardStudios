@@ -1,4 +1,4 @@
 ## Technologies
-- Typescript
+- Node.js/Typescript
 - Next.js
-- Prisma
+- Prisma (Learning Drizzle)
